@@ -47,7 +47,7 @@
 <summary><h2 align="center">⚡ Nota (full) ⚡</h2></summary>
 <br>
 <div align=center>
-    <h3>Nota (full) is the same as Nota Light<br> but built into an exe file with Pyinstaller and has more features<br> such as commands and more privacy with encrypted files.</h3>
+    <h3>Nota (full) is the same as Nota Light<br> but built into an exe file with Pyinstaller and has more features<br> such as commands and more privacy with encrypted files. <br><br> Coming Soon!</h3>
 </div>
 </details>
 
