@@ -1,3 +1,14 @@
+"""
+Nota will soon be moved to
+a very big project I'm working on.
+
+Expect it to move directories
+and maybe be under a different 
+license soon.
+- James
+- added 25/09/24
+"""
+
 from datetime import datetime
 import webbrowser
 import re
