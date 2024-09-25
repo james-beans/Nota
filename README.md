@@ -7,6 +7,7 @@
 </h2>
 
 <br>
+
 <div align="center">
     <br>
 <div align="center"> 
@@ -31,6 +32,21 @@
 <br/>
  </div>
  </div>
+ <br>
+<div align="center">
+    <h2 align="center">
+      Disclamer:
+    </h2>
+    <h3 align="center">
+    Nota will soon be moved to<br>
+    a very big project I'm working on.<br>
+    Expect it to move repositories<br>
+    and maybe be under a different <br>
+    license soon.<br>
+        - James<br>
+    </h3>
+</div>
+ 
 <hr>
 
 <details open>
