@@ -58,7 +58,7 @@
 
 <div align="center">
     
-⚡ **Quote**<br> A computer is like air conditioning - it becomes useless when you open Windows <br> **-- [Linus Torvalds](https://www.azquotes.com/author/14737-Linus_Torvalds) --**
+⚡ **Quote**<br> A computer is like air conditioning - it becomes useless when you open Windows. <br> **-- [Linus Torvalds](https://www.azquotes.com/author/14737-Linus_Torvalds) --**
 <br><br> I use windows lol. - James 2024
 
 </div>
