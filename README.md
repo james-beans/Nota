@@ -42,7 +42,7 @@
     a very big project I'm working on.<br>
     Expect it to move repositories<br>
     and maybe be under a different <br>
-    license soon.<br>
+    license soon (maybe after christmas).<br>
         - James<br>
     </h3>
 </div>
