@@ -1,7 +1,7 @@
 # Credits:
 
 ### Original Creator:
-- James (James-Beans)
+- James M (James-Beans)
 
 ### Languages used:
 - [Python](https://python.org)
