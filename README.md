@@ -8,8 +8,6 @@
 
 <br>
 <div align="center">
-<details open>
-<summary><h2>Info</h2></summary>
     <br>
 <div align="center"> 
   <a href="https://github.com/james-beans/Nota/releases">
@@ -28,7 +26,7 @@
 </div>
 
 <div align="center">
-<h3 align="center">Nota is a text-editor with no distractions.</h3>
+<h3 align="center">Nota is a text-editor with no distractions.<br> Made for Windows.</h3>
 
 <br/>
  </div>
@@ -60,7 +58,8 @@
 
 <div align="center">
     
-⚡ **Quote**<br> The programmers of tomorrow are the wizards of the future.<br> You're going to look like you have magic powers compared to everybody else. <br> **-- [Gabe Newell](https://www.azquotes.com/quote/815686) --**
+⚡ **Quote**<br> A computer is like air conditioning - it becomes useless when you open Windows <br> **-- [Linus Torvalds](https://www.azquotes.com/author/14737-Linus_Torvalds) --**
+<br><br> I use windows lol. - James 2024
 
 </div>
 
