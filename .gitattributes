@@ -1,4 +1,8 @@
 # allows markdown files (*.md files) to show in the repo capsule
 *.md linguist-detectable
+# allows Python files (*.py files) to show in the repo capsule
+*.py linguist-detectable
 # allows ico files (*.ico files) to show in the repo capsule
 *.ico linguist-detectable
+# allows txt-text files (*.txt files) to show in the repo capsule
+*.txt linguist-detectable
