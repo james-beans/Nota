@@ -1,3 +1,5 @@
+> [!WARNING]
+> This project is discontinued from now on. It should still work as normal, it's just I don't have passion to create this anymore. I might update this and remove this warning if I want to. But for now, this is discontinued.
 
 <h1 align="center">
     Nota
@@ -33,19 +35,6 @@
  </div>
  </div>
  <br>
-<div align="center">
-    <h2 align="center">
-      Disclamer:
-    </h2>
-    <h3 align="center">
-    Nota will soon be moved to<br>
-    a very big project I'm working on.<br>
-    Expect it to move repositories<br>
-    and maybe be under a different <br>
-    license soon (maybe after christmas).<br>
-        - James<br>
-    </h3>
-</div>
  
 <hr>
 
