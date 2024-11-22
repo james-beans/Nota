@@ -1,12 +1,9 @@
 """
-Nota will soon be moved to
-a very big project I'm working on.
-
-Expect it to move directories
-and maybe be under a different 
-license soon.
+Nota is temporarily discontinued.
+It will still work but might not
+have as frequent updates.
 - James
-- added 25/09/24
+- added 22/11/24
 """
 
 from datetime import datetime
